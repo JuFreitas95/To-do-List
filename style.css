@@ -44,7 +44,7 @@ body {
 }
 .button-add-task:hover {
     background-color: #299fe3;
-    opacity: 0.7;
+    opacity: .7;
 }
 
 .button-add-task:active{
